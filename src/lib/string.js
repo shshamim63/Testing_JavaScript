@@ -1,8 +1,5 @@
-const capitalize = (str) => {
-  return str.charAt(0).toUpperCase() + str.slice(1);
-}
+const capitalize = (str) => str.charAt(0).toUpperCase() + str.slice(1);
 
-const reverseString = (str) => {
-  return str.split('').reverse().join('');
-}
+const reverseString = (str) => str.split('').reverse().join('');
+
 module.exports = { capitalize, reverseString };
