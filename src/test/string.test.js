@@ -1,4 +1,4 @@
-const { capitalize } = require('../lib/string');
+const { capitalize, reverseString } = require('../lib/string');
 
 test('returns string with the first character capitalized', () => {
   expect(capitalize('microverse')).toBe('Microverse');
