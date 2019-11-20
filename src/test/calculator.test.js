@@ -7,3 +7,7 @@ test('returns sum of two number', () => {
 test('returns subtract of two number', () => {
   expect(calculator.subtract(7, 5)).toBe(2);
 });
+
+test('returns Dividend', () => {
+  expect(calculator.divide(6, 3).toBe(2));
+});
