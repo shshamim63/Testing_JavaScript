@@ -23,7 +23,7 @@
 
 ## Maintainers
 
-[@Shakhawat Hossain](https://github.com/Shakhawat Hossain)
+[Shakhawat Hossain](https://github.com/shshamim63)
 
 ## Contributing
 
