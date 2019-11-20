@@ -1,4 +1,4 @@
-const ceaser = require('../lib/caesar_cipher');
+const caesar = require('../lib/caesar_cipher');
 
 test('CaesarCipher encryption', () => {
   expect(caesar('microverse.>?', 7)).toBe('tpjyvclyzl.>?');
