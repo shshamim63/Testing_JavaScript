@@ -11,3 +11,7 @@ test('returns subtract of two number', () => {
 test('returns Dividend', () => {
   expect(calculator.divide(6, 3)).toBe(2);
 });
+
+test('performs multiplication operation', () => {
+  expect(calculator.multiply(3, 2)).toBe(6);
+});
